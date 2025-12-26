@@ -32,17 +32,6 @@ Data Scientist with over 3 years of experience implementing predictive models an
 - **Quantum Physics:** "Quantum particles in a suddenly accelerating potential" (Published in Quantum Physics).
 - **Control Theory:** "New Tools for Tuning PID Controllers Using Orthogonal Polynomials" (Published in IEEE). 
 
----
-
-### 🚀 Quick Summary
-
-- 🔭 **I’m currently working on**: Lead forecasting models and credit offer recommendations for **PepsiCo** (via DXC), optimizing credit allocation and reducing default rates using **PySpark and Databricks**.
-- 🌱 **I’m currently learning**: Advanced **Transformers & LLMs** (following Stanford's CME 295), Agentic workflows (RAG), and building production-ready apps with **Databricks Apps**.
-- 👯 **I’m looking to collaborate on**: Open-source MLOps tools or projects that involve complex mathematical modeling applied to industrial or business processes.
-- 🤔 **I’m looking for help with**: Deepening my knowledge in **LLM-as-a-judge** evaluation techniques and optimizing inference for Large Language Models.
-- 💬 **Ask me about**: Data Science, MLOps, **Power BI**, SQL optimization, and how quantum particles behave in accelerating potentials (yes, I have a paper on that!).
-- 📫 **How to reach me**: [joseluisvaldezseda@gmail.com](mailto:joseluisvaldezseda@gmail.com) | [LinkedIn](https://linkedin.com/in/jose-luis-valdez-seda)
-- 😄 **Pronouns**: He/Him
-- ⚡ **Fun fact**: I won the **Peña Colorada Award** for using robust control techniques and complex algorithms in bioreactors.
+ 
 
  
