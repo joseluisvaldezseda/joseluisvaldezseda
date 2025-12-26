@@ -32,6 +32,12 @@ Data Scientist with over 3 years of experience implementing predictive models an
 - **Quantum Physics:** "Quantum particles in a suddenly accelerating potential" (Published in Quantum Physics).
 - **Control Theory:** "New Tools for Tuning PID Controllers Using Orthogonal Polynomials" (Published in IEEE). 
 
- 
+---
+
+### 📊 My GitHub Metrics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joseluisvaldezseda&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisvaldezseda&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
  
