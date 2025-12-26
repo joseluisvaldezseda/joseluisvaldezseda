@@ -30,10 +30,7 @@ Data Scientist with over 3 years of experience implementing predictive models an
 ### 📝 Featured Publications & Projects
 - **Customer Intelligence Modeling:** RFM clustering & churn prediction for 400k+ clients.
 - **Quantum Physics:** "Quantum particles in a suddenly accelerating potential" (Published in Quantum Physics).
-- **Control Theory:** "New Tools for Tuning PID Controllers Using Orthogonal Polynomials" (Published in IEEE).# Hi there, I'm Jose Luis Valdez 👋 
-**Data Scientist | AI & MLOps Specialist | Physicist & Process Engineer**
-
-Data Scientist with over 3 years of experience implementing predictive models and ETL pipelines. Currently focused on driving ROI through predictive modeling and cloud architecture (Azure/Databricks). My background in Physics and Process Engineering allows me to bridge the gap between complex mathematical modeling and operational business needs.
+- **Control Theory:** "New Tools for Tuning PID Controllers Using Orthogonal Polynomials" (Published in IEEE). 
 
 ---
 
