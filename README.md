@@ -13,7 +13,6 @@ Data Scientist with over 3 years of experience implementing predictive models an
 - **I’m looking for help with**: Deepening my knowledge in **LLM-as-a-judge** evaluation techniques and optimizing inference for Large Language Models.
 - **Ask me about**: Data Science, MLOps, **Power BI**, SQL optimization, and how quantum particles behave in accelerating potentials (yes, I have a paper on that!).
 - **How to reach me**: [joseluisvaldezseda@gmail.com](mailto:joseluisvaldezseda@gmail.com) | [LinkedIn](https://linkedin.com/in/jose-luis-valdez-seda)
-- **Pronouns**: He/Him
 ---
 
 ### Tech Stack
